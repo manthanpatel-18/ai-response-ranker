@@ -268,8 +268,8 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 👤 Author
 
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
+**Manthan Patel**
+- Linkedin: [Manthan Patel](https://www.linkedin.com/in/manthan-patel18)
 - Portfolio: [yourwebsite.com](https://yourwebsite.com)
 
 ## 🙏 Acknowledgments
