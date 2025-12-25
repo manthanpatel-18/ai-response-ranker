@@ -279,12 +279,3 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 - [Vite](https://vitejs.dev) for the amazing build tool
 - [Three.js](https://threejs.org) for 3D graphics capabilities
 
----
-
-<div align="center">
-
-Made with ❤️ using React, TypeScript, and OpenAI
-
-⭐ Star this repo if you find it helpful!
-
-</div>
